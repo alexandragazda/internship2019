@@ -19,6 +19,7 @@ public class Main {
         atms.add(new Atm("ATM3",LocalTime.of(22,00),LocalTime.of(13,00)));
         atms.add(new Atm("ATM4",LocalTime.of(17,00),LocalTime.of(01,00)));
         return atms;
+        //
     }
 
     /**
